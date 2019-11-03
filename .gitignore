@@ -1,0 +1,8 @@
+.vscode
+package-lock.json
+backend/.settings
+backend/target
+backend/.project
+backend/src/main/resources
+frontend/dist
+frontend/node_modules
