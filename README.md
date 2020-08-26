@@ -8,7 +8,7 @@ Energy dashboard created for the Engie challenge at Hack OHI/O 2019. Capable of 
 
 # Technologies
 
-Uses a Java/Springboot backend and a Javascript/Vue frontend.
+Java/Springboot backend and a Javascript/Vue frontend.
 
 # How to run
 
