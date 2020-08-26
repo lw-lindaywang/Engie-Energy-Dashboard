@@ -1,6 +1,6 @@
 # Engie Energy Dashboard
 
-Energy dashboard created for the Engie challenge at Hack OHI/O 2019. Capable of parsing thousands of data points from energy meters and funneling them through to an inuitive, user-friendly frontend.
+Energy dashboard created for the Engie challenge at Hack OHI/O 2019. Capable of parsing thousands of data points from energy meters and presenting the information in an inuitive, user-friendly frontend.
 
 # Screenshots
 
