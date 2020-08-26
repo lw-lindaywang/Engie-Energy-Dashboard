@@ -5,7 +5,7 @@ Energy dashboard created for the Engie challenge at Hack OHI/O 2019. Capable of 
 # Screenshots
 
 <img src="/Dashboard.PNG?raw=true" width="700" />
-
+<br/>
 <img src="/DateFilter.PNG?raw=true" width="700" />
 
 # Technologies
